@@ -34,7 +34,7 @@ Lane Detection Pipeline:
 - Sliding Window Search
 
 > Although the script for the Mask RCNN is also provided in the lane-detection directory of the repository.
-> The weights for the same can be downloaded from [here](https://drive.google.com/drive/u/0/folders/1iUb0URArB2C6-X3DOzv80k0jRYzgccWB)
+> The weights for the same can be downloaded from [here](https://drive.google.com/drive/u/1/folders/1-9HLlcp9znclt0Kd8m53wKIiwNkxwI6G)
 
 ### Object Detection
 
